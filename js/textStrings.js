@@ -720,3 +720,110 @@ var textStrings_ZH_TW = {
     // (quote0004.png)
     "misatrributed"      : "(沒有說過)" ,
 };
+
+
+var textStrings_ID = {
+	// Adegan 1
+	"niceHat": "Wah, topi keren!",
+	"outtaHere": "Yeah, pergi dari sini!",
+	"getARoom": "Ih, jijik, pergi cari kamar!",
+	"notCoolAnymore": "Nggak keren lagi, ya.",
+	"tvOnTv": "TV... Di TV!",
+	"cricky": "Si Kecil Cricky <3",
+	"tooManyCrickets": "Oke, itu terlalu banyak belalang.",
+	"normalPeep": "Hanya orang biasa.",
+	"normalPeeps": "Hanya beberapa orang biasa.",
+	"wowNothing": "Wah, itu tidak ada apa-apanya.",
+
+	// Adegan 2
+	"crazySquareAttacks": "KOTAK GILA MENYERANG",
+	"justMissed": "Oooh, baru saja melewatinya.",
+	"somethingInteresting": "(harus menangkap mereka melakukan *sesuatu* yang menarik...)",
+	"whoIsScreaming": "(harus menangkap siapa yang berteriak pada mereka)",
+	"circleFearsSquares": "LINGKARAN TAKUT KOTAK",
+	"whoScaresThem": "(harus menangkap *siapa* yang membuat mereka ketakutan)",
+	"areTheyScared": "(harus menangkap mereka *sedang* ketakutan oleh sebuah kotak)", // tidak digunakan
+	"squaresSnubCircles": "KOTAK MENOLAK LINGKARAN",
+	"areTheySnubbed": "(harus menangkap mereka *ketika* menolak lingkaran)", // tidak digunakan
+	"everyoneHates": "SEMUA ORANG MENGHINA SEMUA ORANG!!1!",
+	"almostEveryoneHates": "HAMPir SEMUA ORANG MENGHINA SEMUA ORANG...",
+	"squaresHateCircles": "KOTAK MENGHINA LINGKARAN",
+	"circlesHateSquares": "LINGKARAN MENGHINA KOTAK",
+	"areTheyYelling": "(harus menangkap mereka *berteriak* pada orang lain)", // tidak digunakan
+	"nerdsNow": "Apa yang dilakukan oleh orang-orang aneh ini sekarang?",
+	"schockedPeep": "Mengapa orang ini terkejut?",
+	"whatever": "Terima saja",
+
+	// Adegan 3
+	"ellipsis": ". . .",
+	"coolNoMore": "Topi tidak keren lagi, belum dengar?",
+	"beScared": "TAKUTLAH. MARAHLAH.",
+
+	// MANIFESTO
+	"manifesto": [
+		//"seolah pemirsa ingin berita BAIK"       ,
+		"siapa yang menonton *orang-orang berdamai?*",
+		"kedamaian membosankan. kekerasan menjadi viral.",
+		//"kedamaian membosankan. konflik mendapatkan klik." ,
+		"dan setiap cerita membutuhkan konflik, jadi...",
+		//"...BERILAH PENONTON APA YANG MEREKA INGINKAN."   ,
+		"BERILAH PENONTON APA YANG MEREKA INGINKAN."
+	],
+
+	// -- String saat ini dalam sumber grafis --
+
+	// (bg_preload.png) Layar Pra-pemuatan
+	"playingTime": "waktu bermain: 5 menit",
+	"warning": "peringatan: program berikut\nmengandung adegan kesombongan,\nketidak sopanan & pembunuhan massal.\npenonton disarankan berhati-hati.",
+
+	// (cam-instructions.png) Petunjuk Kamera
+	"pointAndClick": "ARAHKAN & KLIK",
+
+	// (chyron3.png)
+	"chyronNothing": "Wah, ini *tidak ada*",
+
+	// (credits0001.png)
+	"createdBy": "dibuat oleh",
+	"NickyCase": "Nicky Case",
+
+	// (credits0002.png)
+	"manyThanks": "terima kasih banyak kepada para pengetes permainan saya:",
+
+	// (credits000[3,4,5,6].png)
+	"patreonSupporters": "dan kepada pendukung patreon saya:",
+
+	// (credits0007.png)
+	"lastButNotLeast": "dan yang terakhir namun tidak kalah penting,",
+
+	// (credits0008.png)
+	"thankYouForPlaying": "terima KASIH telah bermain!",
+
+	// (preload_play.png)
+	"playButton": "MAIN",
+
+	// (end_button.png) Pascakredit
+	"otherWorkButton": "lihat karya lain saya",
+	"buyCoffeeButton": "belikan saya secangkir kopi",
+	"replayButton": "mainkan ulang kekacauan ini",
+
+	// (logo.png) Pascakredit
+	"logoWBWWB": "BAGIKAN PENDERITAAN:",
+
+	// (end_prototype.png)
+	"endOfPrototype": "AKHIR DARI PROTOTIPE",
+	"toBeContinued": "(akan dilanjutkan!)",
+
+	// (quote0002.png)
+	"WBWWB": "Kita menjadi seperti apa yang kita amati.",
+	"WSOTATOTSU": "Kita membentuk alat kita dan kemudian alat kita membentuk kita.",
+
+	// (quote0003.png)
+	"MarshallMcLuhan": "Marshall McLuhan",
+
+	// (quote0004.png)
+	"misatrributed": "(keliru ditujukan)",
+};
+
+var textStrings = textStrings_ID
+var language = "ID"
+//var textStrings = textStrings_KR;
